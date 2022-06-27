@@ -6,7 +6,7 @@
 https://yash-workoutmap.netlify.app/
 
 ### External Libraries -
-1) Leaflet 
+1) Leaflet js
 
 ### Web APIs -
 1) Geolocation
