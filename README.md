@@ -2,6 +2,9 @@
 
 ## Developed using Vanilla Javascript.
 
+### Deployed Site - 
+https://yash-workoutmap.netlify.app/
+
 ### External Libraries -
 1) Leaflet 
 
