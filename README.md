@@ -1,6 +1,9 @@
 # Mapty-Project
 
-## Developed using Vanilla Javascript.
+### Tech Stack
+1) HTML
+2) CSS
+3) Javascript
 
 ### Deployed Site - 
 https://yash-workoutmap.netlify.app/
